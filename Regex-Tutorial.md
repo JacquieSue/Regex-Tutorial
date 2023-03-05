@@ -38,4 +38,4 @@ Because the expression includes the (`+`) and (`{}`) Quantifiers, it will match 
 ## Author
 To view my projects, please visit: 
 Jacquelyn Pulliam 
-[JacquieSue@github.com](#JacquieSue@github.com)
+[GitHub](https://github.com/JacquieSue)
