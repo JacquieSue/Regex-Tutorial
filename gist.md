@@ -36,6 +36,5 @@ Bracket expressions for email validation include the character sets of (`[a-z0-9
 Because the expression includes the (`+`) and (`{}`) Quantifiers, it will match as many times as possible.
 
 ## Author
-To view my projects, please visit: 
-Jacquelyn Pulliam 
-[GitHub](https://github.com/JacquieSue)
+To view my projects, please visit:
+[https://github.com/JacquieSue](https://github.com/JacquieSue)
